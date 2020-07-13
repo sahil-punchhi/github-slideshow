@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide2
 title: "Welcome to our second slide!"
 ---
 This is sahil-punchhi's slide
